@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:1a1b27,100:d97757&text=Marc%20William&fontColor=e6edf3&fontSize=52&fontAlignY=35&desc=AI%20Systems%20Engineer%20%C2%B7%20Applied%20R%26D%20Lead&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:1a1b27,100:d97757&text=Marc%20William&fontColor=e6edf3&fontSize=52&fontAlignY=35&desc=AI%20Systems%20Engineer%20%C2%B7%20Applied%20R%26amp%3BD%20Lead&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=600&lines=I+build+the+harness+around+the+model;Agent+loops+%C2%B7+Context+engineering+%C2%B7+Evals;Systems%2C+not+demos" alt="Typing SVG" />
 
@@ -173,8 +173,8 @@ Golden sets from real inputs, regression suites, LLM-as-judge where it earns its
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MarcWilliam&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=d97757&icon_color=d97757&text_color=c9d1d9" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcWilliam&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=d97757&text_color=c9d1d9" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarcWilliam&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=d97757&icon_color=d97757&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarcWilliam&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=d97757&text_color=c9d1d9" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com?user=MarcWilliam&theme=dark&hide_border=true&background=0d1117&ring=d97757&fire=d97757&currStreakLabel=d97757" alt="Streak Stats"/>
 
