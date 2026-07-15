@@ -1,18 +1,18 @@
 # 💫 About Me:
-**AI systems engineer & applied-R&D lead** — I build the harness around the model: agent loops, context engineering, retrieval, tool access, and the eval infrastructure that decides whether any of it ships.
+**AI systems engineer & applied-R&D lead** : I build the harness around the model: agent loops, context engineering, retrieval, tool access, and the eval infrastructure that decides whether any of it ships.
 
-Full-stack engineer by background (10+ years of enterprise .NET / Angular on AWS), which is exactly why my agents survive production — they're built like systems, not demos.
+Full-stack engineer by background (10+ years of enterprise .NET / Angular on AWS), which is exactly why my agents survive production , they're built like systems, not demos.
 
 **What I work on:**
 
-- 🤖 **Agent engineering** — plan → act → observe loops with bounded autonomy: budgets, stop conditions, checkpoint gates, and human-in-the-loop escalation. Adversarially reviewed before it's trusted.
-- 🧠 **Context engineering** — deciding what the model sees on every call: system state, retrieved knowledge, tool definitions, memory. Most agent failures are context failures, and that's where I spend my token budget.
-- 🧭 **Orchestration & routing** — multi-provider, tiered / cascade routing optimized for cost-per-successful-task, not cost-per-token
-- 🔌 **MCP & agent skills** — building Model Context Protocol servers and composable skills that give models governed access to real internal systems. Plumbing, not chatbots.
-- 📚 **Retrieval & open knowledge** — hybrid RAG over messy real-world documents; vector search (Qdrant, pgvector) alongside open, markdown-based knowledge graphs the agents can read *and* maintain
-- 📐 **Evals as infrastructure** — golden sets from real inputs, regression suites, LLM-as-judge where it earns its keep. Observability without evals is just watching things break in higher resolution.
+- 🤖 **Agent engineering** : plan → act → observe loops with bounded autonomy: budgets, stop conditions, checkpoint gates, and human-in-the-loop escalation. Adversarially reviewed before it's trusted.
+- 🧠 **Context engineering** : deciding what the model sees on every call: system state, retrieved knowledge, tool definitions, memory. Most agent failures are context failures, and that's where I spend my token budget.
+- 🧭 **Orchestration & routing** : multi-provider, tiered / cascade routing optimized for cost-per-successful-task, not cost-per-token
+- 🔌 **MCP & agent skills** : building Model Context Protocol servers and composable skills that give models governed access to real internal systems. Plumbing, not chatbots.
+- 📚 **Retrieval & open knowledge** : hybrid RAG over messy real-world documents; vector search (Qdrant, pgvector) alongside open, markdown-based knowledge graphs the agents can read *and* maintain
+- 📐 **Evals as infrastructure** : golden sets from real inputs, regression suites, LLM-as-judge where it earns its keep. Observability without evals is just watching things break in higher resolution.
 
-**Career arc:** AI systems ← Full-stack (.NET / Angular / Node) ← Cross-platform mobile (Flutter — it's been a while) ← Blockchain / Solidity (it's been a *long* while)
+**Career arc:** AI systems ← Full-stack (.NET / Angular / Node) ← Cross-platform mobile (Flutter : it's been a while) ← Blockchain / Solidity (it's been a *long* while)
 
 > Most of what I build lives behind an NDA. What's public here is a thin slice.
 
