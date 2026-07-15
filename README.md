@@ -15,15 +15,13 @@
 
 ## ⚡ About
 
-**AI systems engineer & applied-R&D lead.** I build the harness around the model — agent loops, context engineering, retrieval, tool access, and the eval infrastructure that decides whether any of it ships.
+** R&D Section Head & AI Systems engineer ** I build the harness around the model — agent loops, context engineering, retrieval, tool access, and the eval infrastructure that decides whether any of it ships.
 
-Full-stack engineer by background (**10+ years** of enterprise .NET / Angular on AWS), which is exactly why my agents survive production — they're built like **systems, not demos**.
+Full-stack engineer by background (**10+ years** of experince), which is exactly why my agents survive production — they're built like **systems, not demos**.
 
 ```text
-Career arc:  Blockchain / Solidity ──▶ Cross-platform mobile (Flutter) ──▶ Full-stack (.NET / Angular / Node) ──▶ AI Systems
+Career arc:  Blockchain / Solidity ──▶ Cross-platform mobile (Flutter/cordova) ──▶ Full-stack (.NET / Angular / Node) ──▶ AI Systems
 ```
-
-> 🔒 Most of what I build lives behind an NDA. What's public here is a thin slice.
 
 <br/>
 
